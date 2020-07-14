@@ -1,0 +1,12 @@
+{
+  "name": "dev",
+  "version": "1.0.0",
+  "description": "Basic web development environment",
+  "author": "Brett Vaida",
+  "scripts": {
+    "dev": "browser-sync 'app' -w --no-notify"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.26.7"
+  }
+}
