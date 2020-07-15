@@ -1,7 +1,5 @@
-# Install
+## Installation
+`npm i` installs dependencies
 
-`npm i` to install all dependencies
-
-# Use
-
-`npm run dev` to start developing
+## Usage
+`npm run dev` starts dev server
